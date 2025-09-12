@@ -53,3 +53,19 @@
     height: 120px;
     width: 120px;
 }
+
+.amarelo{
+    background-color: rgba(255, 255, 0, 0.538);
+    height: 20vh;
+    display: flex;
+    align-items:center;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+.bola-amarela{
+    background-color: rgb(180, 180, 17);
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
