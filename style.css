@@ -10,7 +10,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: flex-end;
-    gap: 10PX;
+    gap: 10px;
    
 }
 
@@ -20,4 +20,20 @@
     height: 120px;
     width: 120px;
     
+}
+
+.verde{
+    background-color: rgba(0, 128, 0, 0.616);
+    height: 20vh;
+    display: flex;
+    align-items:center;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.bola-verde{
+    background-color: green;
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
 }
