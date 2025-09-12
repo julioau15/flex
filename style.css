@@ -37,3 +37,19 @@
     height: 120px;
     width: 120px;
 }
+
+.vermelho{
+    background-color: rgba(255, 0, 0, 0.431);
+    height: 20vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.bola-vermelha{
+    background-color: rgb(184, 42, 42);
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
